@@ -12,7 +12,7 @@ let addresses = [
 // 设置优选地址api接口
 let addressesapi = [
         'https://raw.githubusercontent.com/wxhvpn/d2/main/addressesapi.txt',
-        'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt',
+        'https://raw.githubusercontent.com/wxhvpn/d2/main/addressesipv6api.txt',
 ];
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成

@@ -5892,41 +5892,4 @@
 8.209.200.73,8880,8880,false,NRT,Asia Pacific,Tokyo,75,4.10
 8.209.214.157,8880,8880,false,NRT,Asia Pacific,Tokyo,74,4.10
 47.245.8.156,2087,2087,true,NRT,Asia Pacific,Tokyo,175,4.09
-47.74.11.251,2052,2052,false,NRT,Asia Pacific,Tokyo,105,4.09
-47.236.163.221,2053,2053,true,SIN,Asia Pacific,Singapore,178,4.09
-8.219.58.64,2053,2053,true,SIN,Asia Pacific,Singapore,179,4.09
-8.218.146.204,2087,2087,true,HKG,Asia Pacific,Hong Kong,77,4.08
-47.74.42.17,2052,2052,false,NRT,Asia Pacific,Tokyo,84,4.08
-47.245.3.137,8880,8880,false,NRT,Asia Pacific,Tokyo,76,4.07
-8.222.240.251,443,443,true,SIN,Asia Pacific,Singapore,82,4.07
-47.74.13.66,2086,2086,false,NRT,Asia Pacific,Tokyo,102,4.07
-47.245.59.133,8880,8880,false,NRT,Asia Pacific,Tokyo,82,4.07
-8.219.213.84,2096,2096,true,SIN,Asia Pacific,Singapore,139,4.07
-47.74.35.79,2082,2082,false,NRT,Asia Pacific,Tokyo,70,4.07
-47.88.85.197,2095,2095,false,SJC,North America,San Jose,178,4.07
-47.245.59.133,8880,8880,false,NRT,Asia Pacific,Tokyo,80,4.07
-8.210.101.157,2087,2087,true,HKG,Asia Pacific,Hong Kong,98,4.06
-8.222.137.178,8443,8443,true,SIN,Asia Pacific,Singapore,138,4.06
-47.245.33.163,8880,8880,false,NRT,Asia Pacific,Tokyo,75,4.06
-8.210.107.246,2083,2083,true,HKG,Asia Pacific,Hong Kong,65,4.06
-47.245.115.6,2053,2053,true,SIN,Asia Pacific,Singapore,79,4.06
-47.242.234.127,8880,8880,false,HKG,Asia Pacific,Hong Kong,230,4.05
-8.210.55.134,2052,2052,false,HKG,Asia Pacific,Hong Kong,41,4.05
-8.218.3.12,8880,8880,false,HKG,Asia Pacific,Hong Kong,51,4.05
-47.76.178.146,2083,2083,true,HKG,Asia Pacific,Hong Kong,61,4.05
-47.242.202.230,2082,2082,false,HKG,Asia Pacific,Hong Kong,42,4.05
-47.242.232.14,8080,8080,false,HKG,Asia Pacific,Hong Kong,35,4.05
-47.74.27.211,2086,2086,false,NRT,Asia Pacific,Tokyo,78,4.05
-47.236.10.100,2096,2096,true,SIN,Asia Pacific,Singapore,85,4.05
-47.236.161.155,8080,8080,false,SIN,Asia Pacific,Singapore,18,4.05
-47.74.16.67,2086,2086,false,NRT,Asia Pacific,Tokyo,76,4.04
-8.210.117.18,8080,8080,false,HKG,Asia Pacific,Hong Kong,52,4.04
-47.245.108.213,8080,8080,false,SIN,Asia Pacific,Singapore,14,4.04
-8.219.201.174,2096,2096,true,SIN,Asia Pacific,Singapore,128,4.04
-47.74.50.249,2053,2053,true,NRT,Asia Pacific,Tokyo,173,4.03
-47.74.13.200,2052,2052,false,NRT,Asia Pacific,Tokyo,71,4.03
-8.222.221.109,8880,8880,false,SIN,Asia Pacific,Singapore,6,4.03
-8.210.174.156,2095,2095,false,HKG,Asia Pacific,Hong Kong,36,4.03
-47.245.107.174,8443,8443,true,SIN,Asia Pacific,Singapore,68,4.03
-47.236.10.100,2083,2083,true,SIN,Asia Pacific,Singapore,96,4.03
-8.209.212.5,8443,8443,true,NRT,Asia Pacific,Tokyo,76,4.03
+

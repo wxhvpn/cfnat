@@ -30,7 +30,7 @@ let addressesnotlsapi = [
 let DLS = 12;//速度下限
 let addressescsv = [
     'https://raw.githubusercontent.com/wxhvpn/d2/main/addressesapi.csv',
-	'https://raw.githubusercontent.com/wxhvpn/d2/main/as.csv',
+    'https://raw.githubusercontent.com/wxhvpn/d2/main/as.csv',
 ];
 
 let subconverter = "apiurl.v1.mk"; //在线订阅转换后端，目前使用肥羊的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub

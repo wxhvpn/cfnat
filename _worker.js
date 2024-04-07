@@ -7,6 +7,16 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 let addresses = [
 	'icook.tw:2053#官方优选域名',
 	'cloudflare.cfgo.cc#优选官方线路',
+	'40.wuxiansheng.site:8443#自用域名',
+	'41.wuxiansheng.site:8443#自用域名',
+	'42.wuxiansheng.site:8443#自用域名',
+	'43.wuxiansheng.site:8443#自用域名',
+	'44.wuxiansheng.site:8443#自用域名',
+	'45.wuxiansheng.site:8443#自用域名',
+	'46.wuxiansheng.site:8443#自用域名',
+	'47.wuxiansheng.site:8443#自用域名',
+	'48.wuxiansheng.site:8443#自用域名',
+	'49.wuxiansheng.site:8443#自用域名',
 ];
 
 // 设置优选地址api接口
@@ -27,7 +37,7 @@ let addressesnotlsapi = [
 	'https://raw.githubusercontent.com/cmliu/CFcdnVmess2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
 ];
 
-let DLS = 11;//速度下限
+let DLS = 12;//速度下限
 let addressescsv = [
     'https://raw.githubusercontent.com/wxhvpn/d2/main/addressesapi.csv',
     'https://raw.githubusercontent.com/wxhvpn/d2/main/as.csv',

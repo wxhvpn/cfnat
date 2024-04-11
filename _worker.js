@@ -7,16 +7,6 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 let addresses = [
 	'icook.tw:2053#官方优选域名',
 	'cloudflare.cfgo.cc#优选官方线路',
-	'ok.haoyoucn.top:8443#zyym♥♠',
-	'ok1.haoyoucn.top:8443#zyym♥♠',
-	'ok2.haoyoucn.top:8443#zyym♥♠',
-	'ok3.haoyoucn.top:8443#zyym♥♠',
-	'ok4.haoyoucn.top:8443#zyym♥♠',
-	'ok5.haoyoucn.top:8443#zyym♥♠',
-	'ok6.haoyoucn.top:8443#zyym♥♠',
-	'ok7.haoyoucn.top:8443#zyym♥♠',
-	'ok8.haoyoucn.top:8443#zyym♥♠',
-	'ok9.haoyoucn.top:8443#zyym♥♠',
 ];
 
 // 设置优选地址api接口

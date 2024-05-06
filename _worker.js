@@ -17,6 +17,7 @@ let addresses = [
 	'ok7.haoyoucn.top:8443#zyym♥♠',
 	'ok8.haoyoucn.top:8443#zyym♥♠',
         'ok9.haoyoucn.top:8443#zyym♥♠',
+	'gfym.my-wahaha.top:2096#cf官方ip♦',
 ];
 
 // 设置优选地址api接口

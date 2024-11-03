@@ -38,7 +38,7 @@ let addressesnotlsapi = [
 	'https://raw.githubusercontent.com/wxhvpn/d2/main/notls.txt', //可参考内容格式 自行搭建。
 ];
 
-let DLS = 13;//速度下限
+let DLS = 0;//速度下限
 let addressescsv = [
     'https://raw.githubusercontent.com/wxhvpn/d2/main/addressesapi.csv',
 ];

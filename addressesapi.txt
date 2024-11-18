@@ -12,6 +12,7 @@ cf8.areyou.us.kg:8443#自用域名
 8.wuxiansheng.site
 9.wuxiansheng.site
 10.wuxiansheng.site
+visa.cn
 www.fortnite.com
 8.217.36.98:14934
 59.127.80.162:12224

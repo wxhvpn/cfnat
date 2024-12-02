@@ -3,16 +3,7 @@ zy.wuxiansheng.site:443
 s13.my-wahaha.top
 cf.areyou.us.kg:2053#自用域名
 cf8.areyou.us.kg:8443#自用域名
-1.wuxiansheng.site
-2.wuxiansheng.site
-3.wuxiansheng.site
-4.wuxiansheng.site
-5.wuxiansheng.site
-6.wuxiansheng.site
-7.wuxiansheng.site
-8.wuxiansheng.site
-9.wuxiansheng.site
-10.wuxiansheng.site
+yongge.topwand.tech
 visa.cn
 www.fortnite.com
 8.217.36.98:14934
